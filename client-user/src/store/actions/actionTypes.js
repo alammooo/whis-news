@@ -1,0 +1,1 @@
+export const NEWS_ACTION = "news_action"
